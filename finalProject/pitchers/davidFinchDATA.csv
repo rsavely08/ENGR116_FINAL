@@ -1,0 +1,5 @@
+Name, PitchBreakDir, PitchBreakAmt, PitchSpeed, PitchUsage
+Fastball,0,0,87.000000,70.000000
+Curveball,5,2,78.000000,10.000000
+Changeup,5,1,82.000000,10.000000
+twoseam,4,1,83.000000,10.000000
